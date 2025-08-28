@@ -2,10 +2,10 @@
   <img width="250" src="https://i-sog.shec.edu.cn/shibboleth-ds/imgs/Rlogo1.png" />
 </div>
 <div align="center">
-  <a href="javascript:;"><img src="https://img.shields.io/badge/test-passing-brightgreen" /></a>
-  <a href="https://forum.authing.cn/" target="_blank"><img src="https://img.shields.io/badge/chat-forum-blue" /></a>
-  <a href="https://console.authing.cn/openapi/" target="_blank"><img src="https://img.shields.io/badge/docs-passing-brightgreen" /></a>
-  <a href="javascript:;"><img src="https://img.shields.io/badge/License-MIT-success" alt="License"></a>
+  <img src="https://img.shields.io/badge/test-passing-brightgreen" />
+  <img src="https://img.shields.io/badge/chat-forum-blue" />
+  <img src="https://img.shields.io/badge/docs-passing-brightgreen" />
+  <img src="https://img.shields.io/badge/License-MIT-success" alt="License" />
 </div>
 
 
@@ -13,9 +13,9 @@
 
 ## 📚 文档
 
-查看文档，请参考 [文档](https://docs.authing.cn/v3/reference/sdk/node/install.html)。
+查看文档，请参考相关技术文档。
 
-此 SDK 基于 [SEAC-Authing 管理 API(v3)](https://api.authing.cn/openapi/v3/management/) 和 [SEAC-Authing 认证 API(v3)](https://api.authing.cn/openapi/v3/authentication/) 构建。
+此 SDK 基于 SEAC-Authing 管理 API(v3) 和 SEAC-Authing 认证 API(v3) 构建。
 
 ## ❓ 问题
 
@@ -27,6 +27,6 @@
 
 ## 🎁 许可证
 
-[MIT](https://opensource.org/licenses/MIT)
+MIT
 
 Copyright (c) 2025 SEAC
